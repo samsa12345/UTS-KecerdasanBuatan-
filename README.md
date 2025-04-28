@@ -1,7 +1,5 @@
-# UTS-KecerdasanBuatan-
-
 # 🌾✨ UTS - Kecerdasan Buatan ✨🌾
-
+2306139_Samsa Faridah
 ## 📚 Deskripsi Proyek
 Halo! Ini adalah proyek **Ujian Tengah Semester** untuk mata kuliah **Kecerdasan Buatan** 🤖📖.  
 Tugas ini terdiri dari dua bagian utama:
